@@ -1,1 +1,1 @@
-# ETH_Deep_Learning_Cheat_Sheet
+# ETH Deep Learning (2022) Cheat Sheet
